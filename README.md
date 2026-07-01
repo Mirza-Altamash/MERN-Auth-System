@@ -181,5 +181,8 @@ You can test the APIs using:
 
 **Mirza Altamash Baig**
 
-GitHub: https://github.com/yourusername  
-LinkedIn: Add your profile here
+📧 Email: mirzaaltamash203@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/mirza-altamash
+
+🐙 GitHub: https://github.com/Mirza-Altamash
